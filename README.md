@@ -1,6 +1,4 @@
 <p align="center">
-  <img alt="Logo" src="https://vdustr.github.io/brand/2022-01/round.png" />
-  <br />
   <a href="//vdustr.github.io">About Me</a>
   💠
   <a href="//vdustr.github.io/blog">Blog</a>

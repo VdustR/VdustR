@@ -1,8 +1,10 @@
 <p align="center">
   <a href="//vdustr.github.io">
-    <img align="center" width="320px" src="https://github.com/VdustR.png" />
     <h3 align="center">
-      <code>About Me</code>
+      <img align="center" width="320px" src="https://github.com/VdustR.png" />
+      <div>
+        <code>👉 ViPro Land 👈</code>
+      </div>
     </h3>
   </a>
 </p>

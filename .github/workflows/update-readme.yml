@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 00:00（台灣 08:00）執行
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 5

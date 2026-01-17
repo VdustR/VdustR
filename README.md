@@ -14,7 +14,7 @@
 ### Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,solidjs,svelte,astro,express,jquery,ts,js,html,css,sass,less,emotion,pug,md,graphql,vite,webpack,rollup,babel,jest,vitest,nodejs,deno,docker,bash,redis,vercel,github,gitlab,codepen,sentry,notion,apple,vscode,git,pnpm,postman&theme=dark&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=apple,astro,babel,bash,codepen,css,deno,docker,emotion,express,git,github,gitlab,graphql,html,jest,jquery,js,less,md,nodejs,notion,pnpm,postman,pug,react,redis,rollup,sass,sentry,solidjs,svelte,ts,vercel,vscode,vite,vitest,webpack&theme=dark&perline=12" alt="Tech Stack" />
 </a>
 
 ---

@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VdustR/pocket/pull/6) in [VdustR/pocket](https://github.com/VdustR/pocket)
-2. 💪 Opened PR [#6](https://github.com/VdustR/pocket/pull/6) in [VdustR/pocket](https://github.com/VdustR/pocket)
-3. 🎉 Merged PR [#5](https://github.com/VdustR/pocket/pull/5) in [VdustR/pocket](https://github.com/VdustR/pocket)
-4. 💪 Opened PR [#5](https://github.com/VdustR/pocket/pull/5) in [VdustR/pocket](https://github.com/VdustR/pocket)
-5. 🎉 Merged PR [#7](https://github.com/VdustR/vp-claude-code-marketplace/pull/7) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+1. 🎉 Merged PR [#9](https://github.com/VdustR/pocket/pull/9) in [VdustR/pocket](https://github.com/VdustR/pocket)
+2. 💪 Opened PR [#9](https://github.com/VdustR/pocket/pull/9) in [VdustR/pocket](https://github.com/VdustR/pocket)
+3. 🎉 Merged PR [#8](https://github.com/VdustR/pocket/pull/8) in [VdustR/pocket](https://github.com/VdustR/pocket)
+4. 💪 Opened PR [#8](https://github.com/VdustR/pocket/pull/8) in [VdustR/pocket](https://github.com/VdustR/pocket)
+5. 🎉 Merged PR [#7](https://github.com/VdustR/pocket/pull/7) in [VdustR/pocket](https://github.com/VdustR/pocket)
 <!--END_SECTION:activity-->
 
 ---

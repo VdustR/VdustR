@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/VdustR/vp-claude-code-marketplace/pull/13) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-2. 🎉 Merged PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
-3. 💪 Opened PR [#8](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/8) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
-4. 💪 Opened PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
-5. 🎉 Merged PR [#5](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/5) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
+1. 💪 Opened PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+2. 💪 Opened PR [#13](https://github.com/VdustR/vp-claude-code-marketplace/pull/13) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+3. 🎉 Merged PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
+4. 💪 Opened PR [#8](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/8) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
+5. 💪 Opened PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
 <!--END_SECTION:activity-->
 
 ---

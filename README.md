@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-2. 💪 Opened PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-3. 💪 Opened PR [#13](https://github.com/VdustR/vp-claude-code-marketplace/pull/13) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🎉 Merged PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
-5. 💪 Opened PR [#8](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/8) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
+1. 💪 Opened PR [#20](https://github.com/vp-tw/eslint-config/pull/20) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+2. 🎉 Merged PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+3. 💪 Opened PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+4. 💪 Opened PR [#13](https://github.com/VdustR/vp-claude-code-marketplace/pull/13) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 🎉 Merged PR [#7](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin/pull/7) in [vp-playground/try-claude-code-stacked-pr-rebase-plugin](https://github.com/vp-playground/try-claude-code-stacked-pr-rebase-plugin)
 <!--END_SECTION:activity-->
 
 ---

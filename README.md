@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/vp-tw/eslint-config/pull/20) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
-2. 💪 Opened PR [#20](https://github.com/vp-tw/eslint-config/pull/20) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
-3. 🎉 Merged PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-4. 💪 Opened PR [#65](https://github.com/VdustR/template-aio/pull/65) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-5. 💪 Opened PR [#13](https://github.com/VdustR/vp-claude-code-marketplace/pull/13) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+1. 🎉 Merged PR [#66](https://github.com/VdustR/template-aio/pull/66) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+2. 💪 Opened PR [#66](https://github.com/VdustR/template-aio/pull/66) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+3. 🎉 Merged PR [#24](https://github.com/vp-tw/eslint-config/pull/24) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+4. 💪 Opened PR [#24](https://github.com/vp-tw/eslint-config/pull/24) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+5. 🎉 Merged PR [#22](https://github.com/vp-tw/eslint-config/pull/22) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
 <!--END_SECTION:activity-->
 
 ---

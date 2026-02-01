@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vp-tw/nanostores-storage/pull/3) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
-2. 💪 Opened PR [#3](https://github.com/vp-tw/nanostores-storage/pull/3) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
-3. 🎉 Merged PR [#1](https://github.com/vp-tw/nanostores-storage/pull/1) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
-4. 💪 Opened PR [#1](https://github.com/vp-tw/nanostores-storage/pull/1) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
-5. 🎉 Merged PR [#70](https://github.com/VdustR/template-aio/pull/70) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+1. 🎉 Merged PR [#7](https://github.com/vp-tw/nanostores-storage/pull/7) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+2. 💪 Opened PR [#7](https://github.com/vp-tw/nanostores-storage/pull/7) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+3. 🎉 Merged PR [#6](https://github.com/vp-tw/nanostores-storage/pull/6) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+4. 💪 Opened PR [#6](https://github.com/vp-tw/nanostores-storage/pull/6) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+5. 🎉 Merged PR [#5](https://github.com/vp-tw/nanostores-storage/pull/5) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
 <!--END_SECTION:activity-->
 
 ---

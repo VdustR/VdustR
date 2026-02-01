@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/VdustR/template-aio/pull/70) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-2. 💪 Opened PR [#70](https://github.com/VdustR/template-aio/pull/70) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-3. 🎉 Merged PR [#10](https://github.com/VdustR/dotfiles/pull/10) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 💪 Opened PR [#10](https://github.com/VdustR/dotfiles/pull/10) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. ❌ Closed PR [#68](https://github.com/VdustR/template-aio/pull/68) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+1. 💪 Opened PR [#1](https://github.com/vp-tw/nanostores-storage/pull/1) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+2. 🎉 Merged PR [#70](https://github.com/VdustR/template-aio/pull/70) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+3. 💪 Opened PR [#70](https://github.com/VdustR/template-aio/pull/70) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+4. 🎉 Merged PR [#10](https://github.com/VdustR/dotfiles/pull/10) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 💪 Opened PR [#10](https://github.com/VdustR/dotfiles/pull/10) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

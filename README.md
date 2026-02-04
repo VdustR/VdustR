@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/vp-tw/nanostores-data-layer/pull/1) in [vp-tw/nanostores-data-layer](https://github.com/vp-tw/nanostores-data-layer)
-2. 🎉 Merged PR [#34](https://github.com/vp-tw/eslint-config/pull/34) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
-3. 🎉 Merged PR [#11](https://github.com/vp-tw/nanostores-storage/pull/11) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
-4. 🎉 Merged PR [#74](https://github.com/VdustR/template-aio/pull/74) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-5. 💪 Opened PR [#34](https://github.com/vp-tw/eslint-config/pull/34) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+1. 🎉 Merged PR [#3](https://github.com/vp-tw/nanostores-data-layer/pull/3) in [vp-tw/nanostores-data-layer](https://github.com/vp-tw/nanostores-data-layer)
+2. 💪 Opened PR [#3](https://github.com/vp-tw/nanostores-data-layer/pull/3) in [vp-tw/nanostores-data-layer](https://github.com/vp-tw/nanostores-data-layer)
+3. ❌ Closed PR [#1](https://github.com/vp-tw/nanostores-data-layer/pull/1) in [vp-tw/nanostores-data-layer](https://github.com/vp-tw/nanostores-data-layer)
+4. 🎉 Merged PR [#34](https://github.com/vp-tw/eslint-config/pull/34) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+5. 🎉 Merged PR [#11](https://github.com/vp-tw/nanostores-storage/pull/11) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
 <!--END_SECTION:activity-->
 
 ---

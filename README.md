@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/VdustR/template-aio/pull/72) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-2. 🗣 Commented on [#72](https://github.com/VdustR/template-aio/pull/72#issuecomment-3840290047) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-3. 🗣 Commented on [#72](https://github.com/VdustR/template-aio/pull/72#issuecomment-3840260867) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-4. 💪 Opened PR [#72](https://github.com/VdustR/template-aio/pull/72) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-5. 🎉 Merged PR [#16](https://github.com/VdustR/dotfiles/pull/16) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#17](https://github.com/VdustR/dotfiles/pull/17) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 🗣 Commented on [#17](https://github.com/VdustR/dotfiles/pull/17#issuecomment-3844923541) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🗣 Commented on [#17](https://github.com/VdustR/dotfiles/pull/17#issuecomment-3844911314) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 🗣 Commented on [#17](https://github.com/VdustR/dotfiles/pull/17#issuecomment-3844902734) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 💪 Opened PR [#17](https://github.com/VdustR/dotfiles/pull/17) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

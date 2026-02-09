@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/vp-tw/nanostores-qs/pull/22#issuecomment-3866133642) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-2. 🎉 Merged PR [#19](https://github.com/vp-tw/nanostores-qs/pull/19) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-3. ❌ Closed PR [#20](https://github.com/vp-tw/nanostores-qs/pull/20) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-4. 🗣 Commented on [#20](https://github.com/vp-tw/nanostores-qs/pull/20#issuecomment-3866055066) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-5. 💪 Opened PR [#20](https://github.com/vp-tw/nanostores-qs/pull/20) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+1. 🎉 Merged PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🗣 Commented on [#22](https://github.com/vp-tw/nanostores-qs/pull/22#issuecomment-3866133642) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+4. 🎉 Merged PR [#19](https://github.com/vp-tw/nanostores-qs/pull/19) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+5. ❌ Closed PR [#20](https://github.com/vp-tw/nanostores-qs/pull/20) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
 <!--END_SECTION:activity-->
 
 ---

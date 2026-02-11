@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🎉 Merged PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 💪 Opened PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🗣 Commented on [#22](https://github.com/vp-tw/nanostores-qs/pull/22#issuecomment-3866133642) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+1. 🎉 Merged PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🎉 Merged PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 🎉 Merged PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

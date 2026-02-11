@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🎉 Merged PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 💪 Opened PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🎉 Merged PR [#22](https://github.com/VdustR/dotfiles/pull/22) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#75](https://github.com/VdustR/template-aio/pull/75) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+2. 💪 Opened PR [#75](https://github.com/VdustR/template-aio/pull/75) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+3. 🎉 Merged PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#24](https://github.com/VdustR/dotfiles/pull/24) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 🎉 Merged PR [#23](https://github.com/VdustR/dotfiles/pull/23) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

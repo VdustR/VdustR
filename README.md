@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/VdustR/vp-claude-code-marketplace/pull/26) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-2. 💪 Opened PR [#26](https://github.com/VdustR/vp-claude-code-marketplace/pull/26) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-3. 🎉 Merged PR [#25](https://github.com/VdustR/vp-claude-code-marketplace/pull/25) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🗣 Commented on [#25](https://github.com/VdustR/vp-claude-code-marketplace/pull/25#issuecomment-3940905983) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-5. 💪 Opened PR [#25](https://github.com/VdustR/vp-claude-code-marketplace/pull/25) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+1. 🎉 Merged PR [#1](https://github.com/chatbotgang/meta-token-doctor/pull/1) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
+2. 💪 Opened PR [#1](https://github.com/chatbotgang/meta-token-doctor/pull/1) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
+3. 🎉 Merged PR [#26](https://github.com/VdustR/vp-claude-code-marketplace/pull/26) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+4. 💪 Opened PR [#26](https://github.com/VdustR/vp-claude-code-marketplace/pull/26) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 🎉 Merged PR [#25](https://github.com/VdustR/vp-claude-code-marketplace/pull/25) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

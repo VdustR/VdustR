@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8337](https://github.com/EclipseFdn/open-vsx.org/issues/8337) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. ℹ️ Labeled issue [#8344](https://github.com/EclipseFdn/open-vsx.org/issues/8344) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 💪 Opened PR [#35](https://github.com/VdustR/dotfiles/pull/35) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 🔒 Closed issue [#8337](https://github.com/EclipseFdn/open-vsx.org/issues/8337) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 3. ℹ️ Labeled issue [#8344](https://github.com/EclipseFdn/open-vsx.org/issues/8344) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. ❗ Opened issue [#8344](https://github.com/EclipseFdn/open-vsx.org/issues/8344) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-5. 🎉 Merged PR [#3](https://github.com/chatbotgang/meta-token-doctor/pull/3) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
+4. ℹ️ Labeled issue [#8344](https://github.com/EclipseFdn/open-vsx.org/issues/8344) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. ❗ Opened issue [#8344](https://github.com/EclipseFdn/open-vsx.org/issues/8344) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 ---

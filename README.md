@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-2. 💪 Opened PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-3. 🎉 Merged PR [#36](https://github.com/VdustR/dotfiles/pull/36) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 🎉 Merged PR [#4](https://github.com/chatbotgang/meta-token-doctor/pull/4) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
-5. 💪 Opened PR [#4](https://github.com/chatbotgang/meta-token-doctor/pull/4) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
+1. 💪 Opened PR [#37](https://github.com/VdustR/dotfiles/pull/37) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 🎉 Merged PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+3. 💪 Opened PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+4. 🎉 Merged PR [#36](https://github.com/VdustR/dotfiles/pull/36) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 🎉 Merged PR [#4](https://github.com/chatbotgang/meta-token-doctor/pull/4) in [chatbotgang/meta-token-doctor](https://github.com/chatbotgang/meta-token-doctor)
 <!--END_SECTION:activity-->
 
 ---

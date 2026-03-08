@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/VdustR/dotfiles/pull/37) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#37](https://github.com/VdustR/dotfiles/pull/37) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🎉 Merged PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-4. 💪 Opened PR [#1](https://github.com/chatbotgang/fe-magazine/pull/1) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-5. 🎉 Merged PR [#36](https://github.com/VdustR/dotfiles/pull/36) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#29](https://github.com/VdustR/vp-claude-code-marketplace/pull/29) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+2. 🎉 Merged PR [#38](https://github.com/VdustR/dotfiles/pull/38) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 💪 Opened PR [#38](https://github.com/VdustR/dotfiles/pull/38) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#29](https://github.com/VdustR/vp-claude-code-marketplace/pull/29) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 🎉 Merged PR [#28](https://github.com/VdustR/vp-claude-code-marketplace/pull/28) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/VdustR/vp-claude-code-marketplace/pull/30) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-2. 💪 Opened PR [#30](https://github.com/VdustR/vp-claude-code-marketplace/pull/30) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-3. 🎉 Merged PR [#29](https://github.com/VdustR/vp-claude-code-marketplace/pull/29) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🎉 Merged PR [#38](https://github.com/VdustR/dotfiles/pull/38) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 💪 Opened PR [#38](https://github.com/VdustR/dotfiles/pull/38) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#31](https://github.com/VdustR/vp-claude-code-marketplace/pull/31) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+2. 💪 Opened PR [#31](https://github.com/VdustR/vp-claude-code-marketplace/pull/31) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+3. 🎉 Merged PR [#30](https://github.com/VdustR/vp-claude-code-marketplace/pull/30) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+4. 💪 Opened PR [#30](https://github.com/VdustR/vp-claude-code-marketplace/pull/30) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 🎉 Merged PR [#29](https://github.com/VdustR/vp-claude-code-marketplace/pull/29) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

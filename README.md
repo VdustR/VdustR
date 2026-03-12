@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/noellch/cc-status/pull/1) in [noellch/cc-status](https://github.com/noellch/cc-status)
-2. 💪 Opened PR [#1](https://github.com/noellch/cc-status/pull/1) in [noellch/cc-status](https://github.com/noellch/cc-status)
-3. 🎉 Merged PR [#77](https://github.com/VdustR/template-aio/pull/77) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-4. 🗣 Commented on [#77](https://github.com/VdustR/template-aio/pull/77#issuecomment-4035913769) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-5. 💪 Opened PR [#77](https://github.com/VdustR/template-aio/pull/77) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+1. 💪 Opened PR [#2](https://github.com/vp-playground/ci-fail-demo/pull/2) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+2. ℹ️ Reopened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+3. ❌ Closed PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+4. 💪 Opened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+5. 🎉 Merged PR [#1](https://github.com/noellch/cc-status/pull/1) in [noellch/cc-status](https://github.com/noellch/cc-status)
 <!--END_SECTION:activity-->
 
 ---

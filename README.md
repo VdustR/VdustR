@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/vp-playground/ci-fail-demo/pull/2) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-2. ℹ️ Reopened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-3. ❌ Closed PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-4. 💪 Opened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-5. 🎉 Merged PR [#1](https://github.com/noellch/cc-status/pull/1) in [noellch/cc-status](https://github.com/noellch/cc-status)
+1. 🎉 Merged PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 💪 Opened PR [#2](https://github.com/vp-playground/ci-fail-demo/pull/2) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+4. ℹ️ Reopened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+5. ❌ Closed PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
 <!--END_SECTION:activity-->
 
 ---

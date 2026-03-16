@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 💪 Opened PR [#2](https://github.com/vp-playground/ci-fail-demo/pull/2) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-4. ℹ️ Reopened PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
-5. ❌ Closed PR [#1](https://github.com/vp-playground/ci-fail-demo/pull/1) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
+1. 🎉 Merged PR [#78](https://github.com/VdustR/template-aio/pull/78) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+2. 💪 Opened PR [#78](https://github.com/VdustR/template-aio/pull/78) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+3. 🎉 Merged PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#39](https://github.com/VdustR/dotfiles/pull/39) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 💪 Opened PR [#2](https://github.com/vp-playground/ci-fail-demo/pull/2) in [vp-playground/ci-fail-demo](https://github.com/vp-playground/ci-fail-demo)
 <!--END_SECTION:activity-->
 
 ---

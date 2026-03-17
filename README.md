@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/22) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
-2. 🎉 Merged PR [#21](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/21) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
-3. 💪 Opened PR [#22](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/22) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
-4. 💪 Opened PR [#21](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/21) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
-5. 🎉 Merged PR [#19](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/19) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+1. 🔒 Closed issue [#18](https://github.com/vp-tw/vscode-extension-git-work-grove/issues/18) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+2. 🎉 Merged PR [#24](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/24) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+3. 💪 Opened PR [#24](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/24) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+4. 🎉 Merged PR [#22](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/22) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+5. 🎉 Merged PR [#21](https://github.com/vp-tw/vscode-extension-git-work-grove/pull/21) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
 <!--END_SECTION:activity-->
 
 ---

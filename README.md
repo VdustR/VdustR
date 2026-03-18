@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/VdustR/ansi-snap/pull/2) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-2. 💪 Opened PR [#2](https://github.com/VdustR/ansi-snap/pull/2) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-3. 🎉 Merged PR [#1](https://github.com/VdustR/ansi-snap/pull/1) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-4. 💪 Opened PR [#1](https://github.com/VdustR/ansi-snap/pull/1) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-5. 🔒 Closed issue [#18](https://github.com/vp-tw/vscode-extension-git-work-grove/issues/18) in [vp-tw/vscode-extension-git-work-grove](https://github.com/vp-tw/vscode-extension-git-work-grove)
+1. 🎉 Merged PR [#4](https://github.com/VdustR/ansi-snap/pull/4) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+2. 💪 Opened PR [#4](https://github.com/VdustR/ansi-snap/pull/4) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+3. ❌ Closed PR [#3](https://github.com/VdustR/ansi-snap/pull/3) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+4. 💪 Opened PR [#3](https://github.com/VdustR/ansi-snap/pull/3) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+5. 🎉 Merged PR [#2](https://github.com/VdustR/ansi-snap/pull/2) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
 <!--END_SECTION:activity-->
 
 ---

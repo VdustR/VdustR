@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VdustR/ansi-snap/pull/6) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-2. 💪 Opened PR [#6](https://github.com/VdustR/ansi-snap/pull/6) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-3. 🎉 Merged PR [#5](https://github.com/VdustR/ansi-snap/pull/5) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-4. 💪 Opened PR [#5](https://github.com/VdustR/ansi-snap/pull/5) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
-5. 🎉 Merged PR [#4](https://github.com/VdustR/ansi-snap/pull/4) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+1. 💪 Opened PR [#32](https://github.com/VdustR/vp-claude-code-marketplace/pull/32) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+2. 🎉 Merged PR [#6](https://github.com/VdustR/ansi-snap/pull/6) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+3. 💪 Opened PR [#6](https://github.com/VdustR/ansi-snap/pull/6) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+4. 🎉 Merged PR [#5](https://github.com/VdustR/ansi-snap/pull/5) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
+5. 💪 Opened PR [#5](https://github.com/VdustR/ansi-snap/pull/5) in [VdustR/ansi-snap](https://github.com/VdustR/ansi-snap)
 <!--END_SECTION:activity-->
 
 ---

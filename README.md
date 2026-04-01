@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/VdustR/cc-skill-buddy-reroll/pull/2) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
-2. 💪 Opened PR [#2](https://github.com/VdustR/cc-skill-buddy-reroll/pull/2) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
-3. 🎉 Merged PR [#1](https://github.com/VdustR/cc-skill-buddy-reroll/pull/1) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
-4. 💪 Opened PR [#1](https://github.com/VdustR/cc-skill-buddy-reroll/pull/1) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
-5. 🎉 Merged PR [#43](https://github.com/VdustR/dotfiles/pull/43) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🗣 Commented on [#4](https://github.com/VdustR/cc-skill-buddy-reroll/pull/4#issuecomment-4169346351) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
+2. 🎉 Merged PR [#2](https://github.com/VdustR/cc-skill-buddy-reroll/pull/2) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
+3. 💪 Opened PR [#2](https://github.com/VdustR/cc-skill-buddy-reroll/pull/2) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
+4. 🎉 Merged PR [#1](https://github.com/VdustR/cc-skill-buddy-reroll/pull/1) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
+5. 💪 Opened PR [#1](https://github.com/VdustR/cc-skill-buddy-reroll/pull/1) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
 <!--END_SECTION:activity-->
 
 ---

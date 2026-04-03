@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🎉 Merged PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-5. 💪 Opened PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+1. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-android-halls-of-torment-save-data/releases/tag/v1.0.1152) in [VdustR/game-android-halls-of-torment-save-data](https://github.com/VdustR/game-android-halls-of-torment-save-data)
+2. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 🎉 Merged PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

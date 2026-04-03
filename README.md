@@ -29,7 +29,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-android-halls-of-torment-save-data/releases/tag/v1.0.1152) in [VdustR/game-android-halls-of-torment-save-data](https://github.com/VdustR/game-android-halls-of-torment-save-data)
+1. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-save-android-halls-of-torment/releases/tag/v1.0.1152) in [VdustR/game-save-android-halls-of-torment](https://github.com/VdustR/game-save-android-halls-of-torment)
 2. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 3. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 4. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)

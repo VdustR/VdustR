@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-save-android-halls-of-torment/releases/tag/v1.0.1152) in [VdustR/game-save-android-halls-of-torment](https://github.com/VdustR/game-save-android-halls-of-torment)
-2. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-5. 🎉 Merged PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+1. 🚀 Published release [v1.299 — Perfect Save (NG+3, Regal Update)](https://github.com/VdustR/game-save-ball-pit/releases/tag/v1.299) in [VdustR/game-save-ball-pit](https://github.com/VdustR/game-save-ball-pit)
+2. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-save-android-halls-of-torment/releases/tag/v1.0.1152) in [VdustR/game-save-android-halls-of-torment](https://github.com/VdustR/game-save-android-halls-of-torment)
+3. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

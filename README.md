@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-2. 🎉 Merged PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-3. 💪 Opened PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🗣 Commented on [#4](https://github.com/VdustR/cc-skill-buddy-reroll/pull/4#issuecomment-4169346351) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
-5. 🎉 Merged PR [#2](https://github.com/VdustR/cc-skill-buddy-reroll/pull/2) in [VdustR/cc-skill-buddy-reroll](https://github.com/VdustR/cc-skill-buddy-reroll)
+1. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🔒 Closed issue [#38](https://github.com/VdustR/vp-claude-code-marketplace/issues/38) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+4. 🎉 Merged PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 💪 Opened PR [#39](https://github.com/VdustR/vp-claude-code-marketplace/pull/39) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

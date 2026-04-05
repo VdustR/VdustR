@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/VdustR/dotfiles/pull/45) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#45](https://github.com/VdustR/dotfiles/pull/45) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🚀 Published release [v1.299 — Perfect Save (NG+3, Regal Update)](https://github.com/VdustR/game-save-ball-pit/releases/tag/v1.299) in [VdustR/game-save-ball-pit](https://github.com/VdustR/game-save-ball-pit)
-4. 🚀 Published release [v1.0.1152 — Endgame Save (Supporter Pack + The Boglands)](https://github.com/VdustR/game-save-android-halls-of-torment/releases/tag/v1.0.1152) in [VdustR/game-save-android-halls-of-torment](https://github.com/VdustR/game-save-android-halls-of-torment)
-5. 🎉 Merged PR [#44](https://github.com/VdustR/dotfiles/pull/44) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#4](https://github.com/chatbotgang/fe-magazine/pull/4) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+2. 💪 Opened PR [#4](https://github.com/chatbotgang/fe-magazine/pull/4) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+3. 🎉 Merged PR [#3](https://github.com/chatbotgang/fe-magazine/pull/3) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+4. 💪 Opened PR [#3](https://github.com/chatbotgang/fe-magazine/pull/3) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+5. 🎉 Merged PR [#2](https://github.com/chatbotgang/fe-magazine/pull/2) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
 <!--END_SECTION:activity-->
 
 ---

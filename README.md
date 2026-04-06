@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/chatbotgang/fe-magazine/pull/5) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-2. 💪 Opened PR [#5](https://github.com/chatbotgang/fe-magazine/pull/5) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-3. 🎉 Merged PR [#4](https://github.com/chatbotgang/fe-magazine/pull/4) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-4. 💪 Opened PR [#4](https://github.com/chatbotgang/fe-magazine/pull/4) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-5. 🎉 Merged PR [#3](https://github.com/chatbotgang/fe-magazine/pull/3) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+1. 🎉 Merged PR [#1](https://github.com/VdustR/claude-code-slack-status/pull/1) in [VdustR/claude-code-slack-status](https://github.com/VdustR/claude-code-slack-status)
+2. 💪 Opened PR [#1](https://github.com/VdustR/claude-code-slack-status/pull/1) in [VdustR/claude-code-slack-status](https://github.com/VdustR/claude-code-slack-status)
+3. 🎉 Merged PR [#5](https://github.com/chatbotgang/fe-magazine/pull/5) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+4. 💪 Opened PR [#5](https://github.com/chatbotgang/fe-magazine/pull/5) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+5. 🎉 Merged PR [#4](https://github.com/chatbotgang/fe-magazine/pull/4) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
 <!--END_SECTION:activity-->
 
 ---

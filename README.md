@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/vp-tw/nanostores-qs/pull/31) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-2. 💪 Opened PR [#31](https://github.com/vp-tw/nanostores-qs/pull/31) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-3. 🎉 Merged PR [#30](https://github.com/vp-tw/nanostores-qs/pull/30) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-4. 💪 Opened PR [#30](https://github.com/vp-tw/nanostores-qs/pull/30) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-5. ❌ Closed PR [#28](https://github.com/vp-tw/nanostores-qs/pull/28) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+1. 🎉 Merged PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+2. 💪 Opened PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+3. 🎉 Merged PR [#32](https://github.com/vp-tw/nanostores-qs/pull/32) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+4. 💪 Opened PR [#32](https://github.com/vp-tw/nanostores-qs/pull/32) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+5. 🎉 Merged PR [#31](https://github.com/vp-tw/nanostores-qs/pull/31) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
 <!--END_SECTION:activity-->
 
 ---

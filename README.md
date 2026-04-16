@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-2. 💪 Opened PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-3. 🎉 Merged PR [#32](https://github.com/vp-tw/nanostores-qs/pull/32) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-4. 💪 Opened PR [#32](https://github.com/vp-tw/nanostores-qs/pull/32) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
-5. 🎉 Merged PR [#31](https://github.com/vp-tw/nanostores-qs/pull/31) in [vp-tw/nanostores-qs](https://github.com/vp-tw/nanostores-qs)
+1. 🎉 Merged PR [#46](https://github.com/VdustR/dotfiles/pull/46) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 🗣 Commented on [#46](https://github.com/VdustR/dotfiles/pull/46#issuecomment-4257408658) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 💪 Opened PR [#46](https://github.com/VdustR/dotfiles/pull/46) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 🎉 Merged PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
+5. 💪 Opened PR [#40](https://github.com/VdustR/vp-claude-code-marketplace/pull/40) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
 <!--END_SECTION:activity-->
 
 ---

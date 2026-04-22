@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/vp-tw/tsconfig/pull/17) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
-2. 💪 Opened PR [#17](https://github.com/vp-tw/tsconfig/pull/17) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
-3. 🎉 Merged PR [#42](https://github.com/VdustR/vp-claude-code-marketplace/pull/42) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 💪 Opened PR [#42](https://github.com/VdustR/vp-claude-code-marketplace/pull/42) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-5. 🎉 Merged PR [#53](https://github.com/VdustR/dotfiles/pull/53) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#19](https://github.com/vp-tw/tsconfig/pull/19) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
+2. 💪 Opened PR [#19](https://github.com/vp-tw/tsconfig/pull/19) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
+3. 🎉 Merged PR [#35](https://github.com/vp-tw/eslint-config/pull/35) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+4. 💪 Opened PR [#35](https://github.com/vp-tw/eslint-config/pull/35) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+5. 🎉 Merged PR [#17](https://github.com/vp-tw/tsconfig/pull/17) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
 <!--END_SECTION:activity-->
 
 ---

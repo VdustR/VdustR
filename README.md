@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-2. 💪 Opened PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-3. 🎉 Merged PR [#19](https://github.com/vp-tw/tsconfig/pull/19) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
-4. 💪 Opened PR [#19](https://github.com/vp-tw/tsconfig/pull/19) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
-5. 🎉 Merged PR [#35](https://github.com/vp-tw/eslint-config/pull/35) in [vp-tw/eslint-config](https://github.com/vp-tw/eslint-config)
+1. 🎉 Merged PR [#54](https://github.com/VdustR/dotfiles/pull/54) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#54](https://github.com/VdustR/dotfiles/pull/54) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🎉 Merged PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+4. 💪 Opened PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+5. 🎉 Merged PR [#19](https://github.com/vp-tw/tsconfig/pull/19) in [vp-tw/tsconfig](https://github.com/vp-tw/tsconfig)
 <!--END_SECTION:activity-->
 
 ---

@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/vp-playground/test-asana-pr-attachment/pull/1) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
-2. 🎉 Merged PR [#54](https://github.com/VdustR/dotfiles/pull/54) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 💪 Opened PR [#54](https://github.com/VdustR/dotfiles/pull/54) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 🎉 Merged PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
-5. 💪 Opened PR [#81](https://github.com/VdustR/template-aio/pull/81) in [VdustR/template-aio](https://github.com/VdustR/template-aio)
+1. 💪 Opened PR [#3](https://github.com/vp-playground/test-asana-pr-attachment/pull/3) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
+2. 💪 Opened PR [#2](https://github.com/vp-playground/test-asana-pr-attachment/pull/2) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
+3. ❌ Closed PR [#1](https://github.com/vp-playground/test-asana-pr-attachment/pull/1) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
+4. 💪 Opened PR [#1](https://github.com/vp-playground/test-asana-pr-attachment/pull/1) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
+5. 🎉 Merged PR [#54](https://github.com/VdustR/dotfiles/pull/54) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

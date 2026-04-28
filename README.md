@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/crescendolab-open/override-proxy/pull/5) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-2. 💪 Opened PR [#3](https://github.com/vp-playground/test-asana-pr-attachment/pull/3) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
-3. 💪 Opened PR [#2](https://github.com/vp-playground/test-asana-pr-attachment/pull/2) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
-4. ❌ Closed PR [#1](https://github.com/vp-playground/test-asana-pr-attachment/pull/1) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
-5. 💪 Opened PR [#1](https://github.com/vp-playground/test-asana-pr-attachment/pull/1) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
+1. 🎉 Merged PR [#5](https://github.com/crescendolab-open/override-proxy/pull/5) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+2. 🎉 Merged PR [#6](https://github.com/crescendolab-open/override-proxy/pull/6) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+3. 💪 Opened PR [#6](https://github.com/crescendolab-open/override-proxy/pull/6) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+4. 💪 Opened PR [#5](https://github.com/crescendolab-open/override-proxy/pull/5) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+5. 💪 Opened PR [#3](https://github.com/vp-playground/test-asana-pr-attachment/pull/3) in [vp-playground/test-asana-pr-attachment](https://github.com/vp-playground/test-asana-pr-attachment)
 <!--END_SECTION:activity-->
 
 ---

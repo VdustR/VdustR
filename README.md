@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/crescendolab-open/override-proxy/pull/13) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-2. 💪 Opened PR [#13](https://github.com/crescendolab-open/override-proxy/pull/13) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-3. ❌ Closed PR [#55](https://github.com/VdustR/dotfiles/pull/55) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 🗣 Commented on [#55](https://github.com/VdustR/dotfiles/pull/55#issuecomment-4340292303) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. ❗ Opened issue [#12](https://github.com/crescendolab-open/override-proxy/issues/12) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+1. 🎉 Merged PR [#12](https://github.com/vp-tw/nanostores-storage/pull/12) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+2. 💪 Opened PR [#12](https://github.com/vp-tw/nanostores-storage/pull/12) in [vp-tw/nanostores-storage](https://github.com/vp-tw/nanostores-storage)
+3. 🎉 Merged PR [#13](https://github.com/crescendolab-open/override-proxy/pull/13) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+4. 💪 Opened PR [#13](https://github.com/crescendolab-open/override-proxy/pull/13) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+5. ❌ Closed PR [#55](https://github.com/VdustR/dotfiles/pull/55) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

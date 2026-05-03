@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/VdustR/dotfiles/pull/58) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 💪 Opened PR [#58](https://github.com/VdustR/dotfiles/pull/58) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 🎉 Merged PR [#57](https://github.com/VdustR/dotfiles/pull/57) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 💪 Opened PR [#57](https://github.com/VdustR/dotfiles/pull/57) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🎉 Merged PR [#56](https://github.com/VdustR/dotfiles/pull/56) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#4](https://github.com/VdustR/skills/pull/4) in [VdustR/skills](https://github.com/VdustR/skills)
+2. 💪 Opened PR [#4](https://github.com/VdustR/skills/pull/4) in [VdustR/skills](https://github.com/VdustR/skills)
+3. 🎉 Merged PR [#3](https://github.com/VdustR/skills/pull/3) in [VdustR/skills](https://github.com/VdustR/skills)
+4. 🗣 Commented on [#3](https://github.com/VdustR/skills/pull/3#issuecomment-4365482761) in [VdustR/skills](https://github.com/VdustR/skills)
+5. 💪 Opened PR [#3](https://github.com/VdustR/skills/pull/3) in [VdustR/skills](https://github.com/VdustR/skills)
 <!--END_SECTION:activity-->
 
 ---

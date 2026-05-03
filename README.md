@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/VdustR/dotfiles/pull/56) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 🎉 Merged PR [#43](https://github.com/VdustR/vp-claude-code-marketplace/pull/43) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-3. 💪 Opened PR [#43](https://github.com/VdustR/vp-claude-code-marketplace/pull/43) in [VdustR/vp-claude-code-marketplace](https://github.com/VdustR/vp-claude-code-marketplace)
-4. 🔒 Closed issue [#12](https://github.com/crescendolab-open/override-proxy/issues/12) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-5. 🗣 Commented on [#12](https://github.com/crescendolab-open/override-proxy/issues/12#issuecomment-4341661126) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+1. 🎉 Merged PR [#58](https://github.com/VdustR/dotfiles/pull/58) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#58](https://github.com/VdustR/dotfiles/pull/58) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🎉 Merged PR [#57](https://github.com/VdustR/dotfiles/pull/57) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 💪 Opened PR [#57](https://github.com/VdustR/dotfiles/pull/57) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 🎉 Merged PR [#56](https://github.com/VdustR/dotfiles/pull/56) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

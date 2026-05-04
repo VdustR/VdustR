@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/VdustR/dotfiles/pull/60) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 🗣 Commented on [#60](https://github.com/VdustR/dotfiles/pull/60#issuecomment-4365843006) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 💪 Opened PR [#60](https://github.com/VdustR/dotfiles/pull/60) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 🎉 Merged PR [#59](https://github.com/VdustR/dotfiles/pull/59) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🗣 Commented on [#59](https://github.com/VdustR/dotfiles/pull/59#issuecomment-4365793527) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. ❌ Closed PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🎉 Merged PR [#60](https://github.com/VdustR/dotfiles/pull/60) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+4. 🗣 Commented on [#60](https://github.com/VdustR/dotfiles/pull/60#issuecomment-4365843006) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+5. 💪 Opened PR [#60](https://github.com/VdustR/dotfiles/pull/60) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

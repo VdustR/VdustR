@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-2. 💪 Opened PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-3. ❌ Closed PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-4. 💪 Opened PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🎉 Merged PR [#60](https://github.com/VdustR/dotfiles/pull/60) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+2. 💪 Opened PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+3. 🎉 Merged PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+4. 💪 Opened PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+5. ❌ Closed PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
 <!--END_SECTION:activity-->
 
 ---

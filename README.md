@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-2. 💪 Opened PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-3. 🎉 Merged PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-4. 💪 Opened PR [#6](https://github.com/chatbotgang/fe-magazine/pull/6) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-5. ❌ Closed PR [#61](https://github.com/VdustR/dotfiles/pull/61) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#6](https://github.com/VdustR/skills/pull/6) in [VdustR/skills](https://github.com/VdustR/skills)
+2. 🗣 Commented on [#6](https://github.com/VdustR/skills/pull/6#issuecomment-4385977689) in [VdustR/skills](https://github.com/VdustR/skills)
+3. 💪 Opened PR [#6](https://github.com/VdustR/skills/pull/6) in [VdustR/skills](https://github.com/VdustR/skills)
+4. 🎉 Merged PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+5. 💪 Opened PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
 <!--END_SECTION:activity-->
 
 ---

@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VdustR/skills/pull/6) in [VdustR/skills](https://github.com/VdustR/skills)
-2. 🗣 Commented on [#6](https://github.com/VdustR/skills/pull/6#issuecomment-4385977689) in [VdustR/skills](https://github.com/VdustR/skills)
-3. 💪 Opened PR [#6](https://github.com/VdustR/skills/pull/6) in [VdustR/skills](https://github.com/VdustR/skills)
-4. 🎉 Merged PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
-5. 💪 Opened PR [#7](https://github.com/chatbotgang/fe-magazine/pull/7) in [chatbotgang/fe-magazine](https://github.com/chatbotgang/fe-magazine)
+1. 🎉 Merged PR [#8](https://github.com/VdustR/skills/pull/8) in [VdustR/skills](https://github.com/VdustR/skills)
+2. 💪 Opened PR [#8](https://github.com/VdustR/skills/pull/8) in [VdustR/skills](https://github.com/VdustR/skills)
+3. 🎉 Merged PR [#7](https://github.com/VdustR/skills/pull/7) in [VdustR/skills](https://github.com/VdustR/skills)
+4. 🗣 Commented on [#7](https://github.com/VdustR/skills/pull/7#issuecomment-4394009134) in [VdustR/skills](https://github.com/VdustR/skills)
+5. 💪 Opened PR [#7](https://github.com/VdustR/skills/pull/7) in [VdustR/skills](https://github.com/VdustR/skills)
 <!--END_SECTION:activity-->
 
 ---

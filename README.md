@@ -29,9 +29,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/VdustR/dotfiles/pull/62) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-2. 🗣 Commented on [#62](https://github.com/VdustR/dotfiles/pull/62#issuecomment-4414552967) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-3. 💪 Opened PR [#62](https://github.com/VdustR/dotfiles/pull/62) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🔒 Closed issue [#12](https://github.com/crescendolab-open/override-proxy/issues/12) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+2. 🗣 Commented on [#12](https://github.com/crescendolab-open/override-proxy/issues/12#issuecomment-4341661126) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+3. ❗ Opened issue [#12](https://github.com/crescendolab-open/override-proxy/issues/12) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
 4. 🎉 Merged PR [#10](https://github.com/VdustR/skills/pull/10) in [VdustR/skills](https://github.com/VdustR/skills)
 5. 💪 Opened PR [#10](https://github.com/VdustR/skills/pull/10) in [VdustR/skills](https://github.com/VdustR/skills)
 <!--END_SECTION:activity-->

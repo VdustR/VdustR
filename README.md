@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/VdustR/VdustR.github.io/pull/20) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
-2. 🗣 Commented on [#20](https://github.com/VdustR/VdustR.github.io/pull/20#issuecomment-4466383541) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
-3. 💪 Opened PR [#20](https://github.com/VdustR/VdustR.github.io/pull/20) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
-4. ❌ Closed PR [#17](https://github.com/VdustR/VdustR.github.io/pull/17) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
-5. ❌ Closed PR [#16](https://github.com/VdustR/VdustR.github.io/pull/16) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
+1. 🎉 Merged PR [#63](https://github.com/VdustR/dotfiles/pull/63) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+2. 💪 Opened PR [#63](https://github.com/VdustR/dotfiles/pull/63) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+3. 🎉 Merged PR [#20](https://github.com/VdustR/VdustR.github.io/pull/20) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
+4. 🗣 Commented on [#20](https://github.com/VdustR/VdustR.github.io/pull/20#issuecomment-4466383541) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
+5. 💪 Opened PR [#20](https://github.com/VdustR/VdustR.github.io/pull/20) in [VdustR/VdustR.github.io](https://github.com/VdustR/VdustR.github.io)
 <!--END_SECTION:activity-->
 
 ---

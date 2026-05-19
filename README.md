@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VdustR/slack-status-codexbar/pull/6) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-2. 🗣 Commented on [#6](https://github.com/VdustR/slack-status-codexbar/pull/6#issuecomment-4473833356) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-3. 💪 Opened PR [#6](https://github.com/VdustR/slack-status-codexbar/pull/6) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-4. 🎉 Merged PR [#64](https://github.com/VdustR/dotfiles/pull/64) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
-5. 🗣 Commented on [#64](https://github.com/VdustR/dotfiles/pull/64#issuecomment-4473793213) in [VdustR/dotfiles](https://github.com/VdustR/dotfiles)
+1. 🎉 Merged PR [#7](https://github.com/VdustR/slack-status-codexbar/pull/7) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
+2. 🗣 Commented on [#7](https://github.com/VdustR/slack-status-codexbar/pull/7#issuecomment-4484282181) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
+3. 💪 Opened PR [#7](https://github.com/VdustR/slack-status-codexbar/pull/7) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
+4. 🎉 Merged PR [#6](https://github.com/VdustR/slack-status-codexbar/pull/6) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
+5. 🗣 Commented on [#6](https://github.com/VdustR/slack-status-codexbar/pull/6#issuecomment-4473833356) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
 <!--END_SECTION:activity-->
 
 ---

@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/VdustR/slack-status-codexbar/pull/7) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-2. 🗣 Commented on [#7](https://github.com/VdustR/slack-status-codexbar/pull/7#issuecomment-4484282181) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-3. 💪 Opened PR [#7](https://github.com/VdustR/slack-status-codexbar/pull/7) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-4. 🎉 Merged PR [#6](https://github.com/VdustR/slack-status-codexbar/pull/6) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
-5. 🗣 Commented on [#6](https://github.com/VdustR/slack-status-codexbar/pull/6#issuecomment-4473833356) in [VdustR/slack-status-codexbar](https://github.com/VdustR/slack-status-codexbar)
+1. ❌ Closed PR [#21](https://github.com/VdustR/font-splitter/pull/21) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
+2. 🗣 Commented on [#21](https://github.com/VdustR/font-splitter/pull/21#issuecomment-4505031032) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
+3. ❌ Closed PR [#20](https://github.com/VdustR/font-splitter/pull/20) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
+4. 🗣 Commented on [#20](https://github.com/VdustR/font-splitter/pull/20#issuecomment-4505030324) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
+5. ❌ Closed PR [#18](https://github.com/VdustR/font-splitter/pull/18) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
 <!--END_SECTION:activity-->
 
 ---

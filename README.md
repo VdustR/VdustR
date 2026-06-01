@@ -29,11 +29,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VdustR/url-workbench/pull/1) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
-2. 🗣 Commented on [#1](https://github.com/VdustR/url-workbench/pull/1#issuecomment-4591173514) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
-3. 💪 Opened PR [#1](https://github.com/VdustR/url-workbench/pull/1) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
-4. 🎉 Merged PR [#25](https://github.com/VdustR/font-splitter/pull/25) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
-5. 💪 Opened PR [#25](https://github.com/VdustR/font-splitter/pull/25) in [VdustR/font-splitter](https://github.com/VdustR/font-splitter)
+1. 🎉 Merged PR [#3](https://github.com/VdustR/url-workbench/pull/3) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
+2. 💪 Opened PR [#3](https://github.com/VdustR/url-workbench/pull/3) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
+3. 🎉 Merged PR [#2](https://github.com/VdustR/url-workbench/pull/2) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
+4. 💪 Opened PR [#2](https://github.com/VdustR/url-workbench/pull/2) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
+5. 🎉 Merged PR [#1](https://github.com/VdustR/url-workbench/pull/1) in [VdustR/url-workbench](https://github.com/VdustR/url-workbench)
 <!--END_SECTION:activity-->
 
 ---

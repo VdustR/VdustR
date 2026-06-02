@@ -26,18 +26,6 @@
 
 ---
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/VdustR/pocket/pull/14) in [VdustR/pocket](https://github.com/VdustR/pocket)
-2. 🗣 Commented on [#14](https://github.com/VdustR/pocket/pull/14#issuecomment-4599546563) in [VdustR/pocket](https://github.com/VdustR/pocket)
-3. 🗣 Commented on [#14](https://github.com/VdustR/pocket/pull/14#issuecomment-4599546547) in [VdustR/pocket](https://github.com/VdustR/pocket)
-4. 🗣 Commented on [#14](https://github.com/VdustR/pocket/pull/14#issuecomment-4599513001) in [VdustR/pocket](https://github.com/VdustR/pocket)
-5. 🗣 Commented on [#14](https://github.com/VdustR/pocket/pull/14#issuecomment-4599503395) in [VdustR/pocket](https://github.com/VdustR/pocket)
-<!--END_SECTION:activity-->
-
----
-
 <a href="https://vdustr.github.io">
   <img src="https://img.shields.io/badge/%F0%9F%91%89_ViPro_Land_%F0%9F%91%88-visit-orange?style=for-the-badge" alt="ViPro Land"/>
 </a>

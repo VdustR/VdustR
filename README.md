@@ -23,6 +23,15 @@ available as a standalone [plugin](https://github.com/VdustR/agent-plugin-vp-int
 The configuration behind my everyday working environment, kept reproducible
 across machines.
 
+## Development tooling
+
+### [override-proxy](https://github.com/crescendolab-open/override-proxy)
+
+A pluggable local development server for overriding HTTP and WebSocket requests
+while proxying everything else to upstream services. I built and maintain it to
+make local integration testing and hard-to-reproduce scenarios easier to
+control.
+
 ## PTT toolkit
 
 Tools for a more comfortable PTT experience, from opening shared links to

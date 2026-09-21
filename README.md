@@ -1,33 +1,56 @@
 <div align="center">
 
-<!-- Avatar -->
-<a href="https://vdustr.github.io">
-  <img src="https://github.com/VdustR.png" width="150" alt="VdustR"/>
-</a>
+# ViPro / VdustR
 
-<!-- Typing Effect -->
-<br/>
+**Small tools. Practical solutions. Better quality of life.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono&weight=600&size=24&duration=2500&pause=1000&color=FABD2F&center=true&vCenter=true&width=420&height=80&lines=ViPro+%F0%9F%90%BE;Front-end+Developer+%F0%9F%92%BB;Fun-end+Developer+%F0%9F%8E%AE;QOL+Wizard+%E2%9C%A8;Problem%3F+Resolved.+%F0%9F%94%A7)](https://vdustr.github.io)
-
-<!-- Tech Stack -->
-### Tech Stack
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,astro,babel,bash,codepen,css,deno,docker,emotion,express,git,github,gitlab,graphql,html,jest,jquery,js,less,md,nodejs,notion,pnpm,postman,pug,react,redis,rollup,sass,sentry,solidjs,svelte,ts,vercel,vscode,vite,vitest,webpack&theme=dark&perline=12" alt="Tech Stack" />
-</a>
-
----
-
-### GitHub Stats
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VdustR&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph" />
-
----
-
-<a href="https://vdustr.github.io">
-  <img src="https://img.shields.io/badge/%F0%9F%91%89_ViPro_Land_%F0%9F%91%88-visit-orange?style=for-the-badge" alt="ViPro Land"/>
-</a>
+I enjoy finding everyday friction and turning it into useful tools,
+focused libraries, and repeatable workflows.
 
 </div>
+
+## Daily workflows
+
+### [Skills](https://github.com/VdustR/skills)
+
+The reusable workflows I rely on every day for investigation, maintenance,
+development, and delivery. The collection grows whenever a recurring problem
+produces a solution worth keeping. The interaction-routing workflow is also
+available as a standalone [plugin](https://github.com/VdustR/agent-plugin-vp-interaction-routing).
+
+### [Dotfiles](https://github.com/VdustR/dotfiles)
+
+The configuration behind my everyday working environment, kept reproducible
+across machines.
+
+## PTT toolkit
+
+Tools for a more comfortable PTT experience, from opening shared links to
+changing the terminal's appearance and adapting fonts to its cell grid.
+
+- **[PTT Link Switcher](https://github.com/vp-tw/ptt-link-switcher)** — Convert article links between supported PTT readers, entirely offline.
+- **[Term PTT Custom Theme](https://chromewebstore.google.com/detail/term-ptt-custom-theme/lmanknmemlpnjolgjoffdkmkkeibpfej)** — Customize `term.ptt.cc` colors, styles, and web fonts. [Source](https://github.com/VdustR/term-ptt-custom-theme)
+- **[PTT Font Tool](https://github.com/VdustR/ptt-font-tool)** — Adapt fonts to the `term.ptt.cc` terminal cell grid with a desktop app, CLI, or Python library.
+
+## Font tooling
+
+Making large CJK web fonts practical to ship and simple to use.
+
+- **[Font Splitter](https://github.com/VdustR/font-splitter)** — Split large fonts into optimized `unicode-range` subsets.
+- **[CJK Web Fonts](https://github.com/vp-tw/cjk-web-fonts)** — Ready-to-use, versioned CJK web fonts built with Font Splitter.
+
+## Nanostores toolkit
+
+Small, focused building blocks for reactive application state.
+
+- **[nanostores-qs](https://github.com/vp-tw/nanostores-qs)** — Manage query-string state reactively and type-safely.
+- **[nanostores-storage](https://github.com/vp-tw/nanostores-storage)** — Connect nanostores to local storage, session storage, cookies, or memory.
+- **[nanostores-data-layer](https://github.com/vp-tw/nanostores-data-layer)** — Reactively synchronize Google Tag Manager's `dataLayer` with a nanostores store.
+
+## Other utilities
+
+- **[Pocket](https://github.com/VdustR/pocket)** — Search, filter, and organize starred GitHub repositories.
+- **[URL Workbench](https://github.com/VdustR/url-workbench)** — Inspect, edit, compare, and share URLs.
+
+More projects: [VdustR repositories](https://github.com/VdustR?tab=repositories)
+· [vp-tw repositories](https://github.com/orgs/vp-tw/repositories)
